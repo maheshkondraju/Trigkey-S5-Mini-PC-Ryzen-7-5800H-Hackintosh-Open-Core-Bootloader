@@ -1,5 +1,6 @@
 # TRIGKEY-S5-Pro-Max-Mini-PC-Ryzen-7-5800H-Hackintosh-Open-Core-Bootloader
 TRIGKEY S5 Pro Max Mini PC Ryzen 7 5800H Hackintosh Open Core Bootloader
+
 🧣【High-performance 8C/16T Ryzen 5800H processor】 TRIGKEY S5 Mini Computer is equipped with AMD Ryzen 5 5800H(3.2-4.4GHz). AMD Ryzen 5 5800H CPU has 8 cores and 16 threads, which can play an excellent role in the latest graphics-intensive games. S5 is also a fast, smooth, and power-saving microcomputer, which is suitable for entertainment, office, education, and light games.
 
 🧣【Trusted brands of DDR4 and SSD】The Micro PC is equipped with 16G Crucial RAM & King~Ston MVNE SSD. They all have quite good storage particles, which can effectively prevent data loss-the old brand is trustworthy. In addition, TRIGKEY S5 Ryzen 7 Mini PC is pre-installed with W11 Pro (supporting W10 Pro, Linux-Ubuntu, Chrome os Flex, etc. ) to ensure the smooth operation of the system, and an additional 2.5 "SATA space is reserved for custom expansion (up to 2TB).
