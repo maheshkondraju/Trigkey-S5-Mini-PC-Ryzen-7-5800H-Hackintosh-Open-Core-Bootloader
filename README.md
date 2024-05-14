@@ -1,4 +1,4 @@
-TRIGKEY S5 Mini PC Ryzen 7 5800H Hackintosh Open Core Bootloader
+Trigkey S5 Mini PC Ryzen 7 5800H Hackintosh Open Core Bootloader
 
 ![Screenshot 2024-05-15 at 12 05 45 AM](https://github.com/maheshkondraju/TRIGKEY-S5-Pro-Max-Mini-PC-Ryzen-7-5800H-Hackintosh-Open-Core-Bootloader/assets/36487164/0dd0011a-8e48-473f-92b2-a95ca6d2ce01)
 ![Screenshot 2024-05-14 at 11 59 03 PM](https://github.com/maheshkondraju/TRIGKEY-S5-Pro-Max-Mini-PC-Ryzen-7-5800H-Hackintosh-Open-Core-Bootloader/assets/36487164/e4efa2c5-4717-4d58-aca9-71dc70ba4173)
